@@ -1,0 +1,264 @@
+{
+  "main": {
+    "id": "0f4fa5c2199dee03",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc6fa47ce11d707e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45dd42057e98787d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c79279c5bfa2229",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wayne State University - CTF/Print a Flag.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5dea193af9a76def",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Texas Security Awareness Week 2023/The Path to Victory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cbbfa73952430921",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Texas Security Awareness Week 2023/Screenshot from 2023-04-15 22-47-58.png"
+              }
+            }
+          },
+          {
+            "id": "035285b6338c8c7e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Texas Security Awareness Week 2023/Screenshot from 2023-04-15 22-47-30.png"
+              }
+            }
+          },
+          {
+            "id": "61114e11e964ab4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Texas Security Awareness Week 2023/The Path to Victory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc3bc23047fc006b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Texas Security Awareness Week 2023/Console Scrabble.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5a1e0beac220094",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Texas Security Awareness Week 2023/Flag Format.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf330c3831b2831c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Texas Security Awareness Week 2023/Join our Discord.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1ba56a28edcfc363",
+    "type": "split",
+    "children": [
+      {
+        "id": "c766a8e26cd0adc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94d9dabdb4f3578c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cd32153a2c70775a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "af5c5efcbed834d5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "db4f3721a20b2a3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6fa7f016a403f2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c51b0a719299db7d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Texas Security Awareness Week 2023/Join our Discord.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1e7e3a28a917cdcb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Texas Security Awareness Week 2023/Join our Discord.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5c0618fe351cdd36",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cb63d335c1efde7f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Texas Security Awareness Week 2023/Join our Discord.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "94d9dabdb4f3578c",
+  "lastOpenFiles": [
+    "Texas Security Awareness Week 2023/Flag Format.md",
+    "Texas Security Awareness Week 2023/Join our Discord.md",
+    "Texas Security Awareness Week 2023/Console Scrabble.md",
+    "Texas Security Awareness Week 2023/Screenshot from 2023-04-15 22-52-47.png",
+    "Texas Security Awareness Week 2023/Screenshot from 2023-04-15 22-52-17.png",
+    "Texas Security Awareness Week 2023/Screenshot from 2023-04-15 22-51-01.png",
+    "Texas Security Awareness Week 2023/Screenshot from 2023-04-15 22-50-38.png",
+    "Texas Security Awareness Week 2023/Screenshot from 2023-04-15 22-49-24.png",
+    "Texas Security Awareness Week 2023/The Path to Victory.md",
+    "Texas Security Awareness Week 2023/Screenshot from 2023-04-15 22-46-21.png",
+    "Texas Security Awareness Week 2023/Screenshot from 2023-04-15 22-47-30.png",
+    "Texas Security Awareness Week 2023/Screenshot from 2023-04-15 22-47-58.png",
+    "Wayne State University - CTF/Print a Flag.md",
+    "Texas Security Awareness Week 2023",
+    "README.md",
+    "Wayne State University - CTF/Unix logging.md",
+    "Wayne State University - CTF/Welcome Challenge.md",
+    "Wayne State University - CTF",
+    "Summit CTF"
+  ]
+}
