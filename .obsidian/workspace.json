@@ -4,115 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "cc6fa47ce11d707e",
+        "id": "dee2876aae48dc2b",
         "type": "tabs",
         "children": [
           {
-            "id": "45dd42057e98787d",
+            "id": "ed672df24a13c5d0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c79279c5bfa2229",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wayne State University - CTF/Print a Flag.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5dea193af9a76def",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texas Security Awareness Week 2023/The Path to Victory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cbbfa73952430921",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Texas Security Awareness Week 2023/Screenshot from 2023-04-15 22-47-58.png"
-              }
-            }
-          },
-          {
-            "id": "035285b6338c8c7e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Texas Security Awareness Week 2023/Screenshot from 2023-04-15 22-47-30.png"
-              }
-            }
-          },
-          {
-            "id": "61114e11e964ab4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texas Security Awareness Week 2023/The Path to Victory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc3bc23047fc006b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texas Security Awareness Week 2023/Console Scrabble.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5a1e0beac220094",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texas Security Awareness Week 2023/Flag Format.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf330c3831b2831c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texas Security Awareness Week 2023/Join our Discord.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "db4f3721a20b2a3e",
@@ -178,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Texas Security Awareness Week 2023/Join our Discord.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Texas Security Awareness Week 2023/Join our Discord.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Texas Security Awareness Week 2023/Join our Discord.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -239,24 +139,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94d9dabdb4f3578c",
+  "active": "ed672df24a13c5d0",
   "lastOpenFiles": [
-    "Texas Security Awareness Week 2023/Flag Format.md",
     "Texas Security Awareness Week 2023/Join our Discord.md",
+    "Texas Security Awareness Week 2023/Flag Format.md",
     "Texas Security Awareness Week 2023/Console Scrabble.md",
+    "Texas Security Awareness Week 2023/The Path to Victory.md",
+    "Texas Security Awareness Week 2023/Screenshot from 2023-04-15 22-47-30.png",
+    "Texas Security Awareness Week 2023/Screenshot from 2023-04-15 22-47-58.png",
+    "Wayne State University - CTF/Print a Flag.md",
+    "Wayne State University - CTF/Unix logging.md",
+    "README.md",
     "Texas Security Awareness Week 2023/Screenshot from 2023-04-15 22-52-47.png",
     "Texas Security Awareness Week 2023/Screenshot from 2023-04-15 22-52-17.png",
     "Texas Security Awareness Week 2023/Screenshot from 2023-04-15 22-51-01.png",
     "Texas Security Awareness Week 2023/Screenshot from 2023-04-15 22-50-38.png",
     "Texas Security Awareness Week 2023/Screenshot from 2023-04-15 22-49-24.png",
-    "Texas Security Awareness Week 2023/The Path to Victory.md",
     "Texas Security Awareness Week 2023/Screenshot from 2023-04-15 22-46-21.png",
-    "Texas Security Awareness Week 2023/Screenshot from 2023-04-15 22-47-30.png",
-    "Texas Security Awareness Week 2023/Screenshot from 2023-04-15 22-47-58.png",
-    "Wayne State University - CTF/Print a Flag.md",
     "Texas Security Awareness Week 2023",
-    "README.md",
-    "Wayne State University - CTF/Unix logging.md",
     "Wayne State University - CTF/Welcome Challenge.md",
     "Wayne State University - CTF",
     "Summit CTF"
